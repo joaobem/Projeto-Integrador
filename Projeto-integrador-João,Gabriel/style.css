@@ -1,0 +1,28 @@
+.links{
+    background-color:rgb(33, 111, 175);
+    color:white;
+    padding:15px;
+    height: 80px;
+    text-align: left;
+    font-family: "oswald";
+}
+.home{
+    background-color:rgb(35, 62, 83);
+    color:white;
+    padding:15px;
+    height: 1600px;
+    text-align: left;
+}
+
+a:link, a:visited {
+    background-color: rgb(33, 111, 175);
+    color: white;
+    padding: 22px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+  }
+  a:hover, a:active {
+    background-color: rgb(62, 67, 71);
+  }
